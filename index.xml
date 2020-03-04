@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xuana online</title>
+    <link>http://xxuana.github.io/</link>
+    <description>Recent content on xuana online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© xu 2020 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;. Made by &lt;a href=&#39;https://twitter.com/siegerts&#39;&gt;@siegerts&lt;/a&gt;.</copyright>
+    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://xxuana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pensamentos sobre o que é ser uma mulher negra</title>
+      <link>http://xxuana.github.io/post/pensamentos-sobre-o-que-%C3%A9-ser-uma-mulher-negra/</link>
+      <pubDate>Sat, 05 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://xxuana.github.io/post/pensamentos-sobre-o-que-%C3%A9-ser-uma-mulher-negra/</guid>
+      <description>Ultimamente tenho me questionado muito sobre o que significa ser uma mulher negra. Se tirarmos todos os papéis sociais, racismos e opressões que sofro nesta sociedade, qual seria a minha essência? Como eu me comportaria e me apresentaria para esta sociedade. Existiria a necessidade de gritar a 4 ventos, que sou uma mulher negra?
+Cheguei a conclusão de que estou muito longe de responder essa pergunta. Ainda preciso vivenciar muitas coisas e que o meu pensamento de hoje, não será nenhuma regra escrita em pedra, e está sujeito a mudança daqui a 5 segundos.</description>
+    </item>
+    
+    <item>
+      <title>oi, eu sou joana</title>
+      <link>http://xxuana.github.io/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://xxuana.github.io/about/</guid>
+      <description>tenho 23 anos, sou soteropolitana e desenvolvedora, participo do coletivo pyladies salvador e periféricas.
+📚 tecnologias que domino  python javascript html css controle de versionamento (git)  💗 coisas que tenho interesse  programação design (UX) processamento de linguagem natural processamento e visualização de dados estudos de gênero, raça e linguagem coletivos e comunidades  🗣 palestras que já fiz  Ciberativismo negro: Vigilância do Estado e o silenciamento social (AfroPython Recife 2019 e Criptofunk 2019) NLP: Ou como máquinas podem entender pessoas (TDC Porto Alegre 2018) Ocupando espaços digitais: Tecnologia como uma ação política (Campus Party Bahia 2018) Pyladies: Incluindo mulheres na tecnologia (Campus Party Bahia 2017)  📝 voluntariado  Co-organizadora do Workshop Django Girls em Salvador Co-organizadora e produtora de conteúdo da Comunidade Pyladies Salvador Social media e apoio à organização no evento Python Nordeste 2019  </description>
+    </item>
+    
+  </channel>
+</rss>
