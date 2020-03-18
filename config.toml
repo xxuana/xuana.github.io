@@ -25,7 +25,7 @@ description = "xuana is a tech consultant"
   url = "post/"
 
 [[params.menu]]
-  name = "post series"
+  name = "categorias"
   url = "series/"
   
 
